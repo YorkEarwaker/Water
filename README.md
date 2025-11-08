@@ -1,6 +1,6 @@
 # Water
 
-Fresh water, drinking water, water purification, water filtration, 
+Fresh water, drinking water, water purification, water filtration, water decontamination, 
 
 Long term, short term, disaster relief, ...
 
@@ -11,6 +11,9 @@ See also
 ## Status
 TODO
 * <todo: consider, expand of rational and high level objectives, >
+* <todo; consider, solar evoporation, >
+* <todo; consider, solar distillation, >
+* <todo; consider, filtation, sand, charcoal, fabric, >
 
 DONE
 * <done; consider, intent to commit, >
@@ -21,5 +24,5 @@ DONE
 * Water, H20, 
 * Molecule, 
 
-* Hydrogen
-* Oxygen
+* Hydrogen, H
+* Oxygen, O
