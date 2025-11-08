@@ -17,8 +17,9 @@ TODO
 * <todo; consider, solar evoporation, >
 * <todo; consider, solar distillation, >
 * <todo; consider, filtation, sand, charcoal, fabric, paper, >
-* <todo; consider, cleansing with/by microganisms, helpful little phages and other such things, would this work for heavy metal contaminants too, >
+* <todo; consider, cleansing with/by microganisms, helpful little phages and other such things, would this work too for contaminants; heavy metal, micro plastic, ... >
 * <todo; consider, cleansing from/of microorganisms, ultra violet UV light electromagnetic spectrum? other? >
+* <todo: consider, catalogue of available sensors for water related concerns, select one for evaluation in electrical engineering sub project, in vivo, in vitro, in silico, high priority, >
 
 DONE
 * <done; consider, intent to commit, >
