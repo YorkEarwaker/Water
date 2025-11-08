@@ -4,7 +4,10 @@ Fresh water, drinking water, water purification, water filtration, water deconta
 
 Long term, short term, disaster relief, ...
 
+An anthropogenic global warming AGW related project.
+
 See also
+* climate model
 * electrical engineering
 * hybrid power
 
@@ -17,7 +20,6 @@ TODO
 
 DONE
 * <done; consider, intent to commit, >
-
 
 ## References
 
