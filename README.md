@@ -13,13 +13,13 @@ See also
 
 ## Status
 TODO
-* <todo: consider, expand of rational and high level objectives, >
+* <todo: consider, expand on rationale and high level objectives and goals, >
 * <todo; consider, solar evoporation, >
 * <todo; consider, solar distillation, >
 * <todo; consider, solar desalination, possibly a varient of solar evaporation and/or solar distillation, >
 * <todo; consider, filtation, sand, charcoal, fabric, paper, >
 * <todo; consider, cleansing with/by microganisms, helpful little phages and other such things, would this work too for contaminants; heavy metal, micro plastic, ... >
-* <todo; consider, cleansing from/of microorganisms, ultra violet UV light electromagnetic spectrum? other? >
+* <todo; consider, cleansing from/of microrganisms, ultra violet UV light electromagnetic spectrum? other? >
 * <todo: consider, catalogue of available sensors for water related concerns, select one for evaluation in electrical engineering sub project, in vivo, in vitro, in silico, high priority, >
 
 DONE
