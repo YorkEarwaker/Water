@@ -28,7 +28,10 @@ DONE
 ## Hardware
 what other HW to list?
 
+### Filtration
+
 ### Sensors
+applications within the environment, water treatment, water tanks, cooling towers, sump pumps, swimming pools, ...
 
 Sensor types
 * Water level sensor
@@ -36,6 +39,8 @@ Sensor types
 * Water leak detector sensor
 * ...
 
+
+### Solar
 
 ## References
 
