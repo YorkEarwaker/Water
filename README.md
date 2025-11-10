@@ -28,17 +28,23 @@ DONE
 ## Hardware
 what other HW to list?
 
+### Decontamination
+Process toward purification. Removal of things/substances poisonous hazardous to humans and other animals. For example removal of dissolved molecules and/or dissolved elements. For example removal of bacteria or removal of parasites. 
+
 ### Filtration
+Process toward decontamination and purification. For example removal of things/substances harmful hazardous or unpleasant to humans and other animals. For example removal of non living biological matter plant or animal. 
+
+### Purification
+Toward pure H20 with no other molecules or elements. For example removal of minerals like calcium carbonate in 'hard' water? 
 
 ### Sensors
 applications within the environment, water treatment, water tanks, cooling towers, sump pumps, swimming pools, ...
 
 Sensor types
 * Water level sensor
-* Water quality sensor
+* Water quality sensor, important! high priority. 
 * Water leak detector sensor
 * ...
-
 
 ### Solar
 
