@@ -25,6 +25,18 @@ TODO
 DONE
 * <done; consider, intent to commit, >
 
+## Hardware
+what other HW to list?
+
+### Sensors
+
+Sensor types
+* Water level sensor
+* Water quality sensor
+* Water leak detector sensor
+* ...
+
+
 ## References
 
 Terms
