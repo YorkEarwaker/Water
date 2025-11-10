@@ -57,3 +57,8 @@ Terms
 Elements
 * Hydrogen, H
 * Oxygen, O
+
+News Papers - water sensor kinds, example kinds, 
+* What is a Water Sensor?, [WS](https://robocraze.com/blogs/post/what-is-a-water-sensor), RoboCraze
+* ...
+
